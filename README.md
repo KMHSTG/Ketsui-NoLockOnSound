@@ -1,11 +1,11 @@
-# **Ketsui No Lock-On Sound**
+# **Ketsui - No Lock-On Sound**
 
 Patch that removes the beeping lock-on sound effect entirely from the Ketsui arcade rom. 
 It does nothing else, and the patched rom retains full gameplay/demo compatibility with an unmodified one.
 
 ## Patching Instructions:
 
-1 - Extract your MAME Ketsui rom archive (usually ket.zip)
+1 - Extract your MAME Ketsui rom archive (usually ket.zip).
 
 2 - Using your IPS patcher of choice, apply the ketsui-nlos.ips patch to the file named either "cave_m04701b032.u17" or "m04701b032.u17", whichever one of those is present. Make sure that your patched file has the same filename as the original.
 
