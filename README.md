@@ -7,7 +7,7 @@ It does nothing else, and the patched rom retains full gameplay/demo compatibili
 
 1 - Extract your MAME Ketsui rom archive (usually ket.zip).
 
-2 - Using your IPS patcher of choice, apply the ketsui-nlos.ips patch to the file named either "cave_m04701b032.u17" or "m04701b032.u17", whichever one of those is present. Make sure that your patched file has the same filename as the original.
+2 - Using your xdelta patcher of choice, apply the ketsui-nlos.xdelta patch to the file named either "cave_m04701b032.u17" or "m04701b032.u17", whichever one of those is present. Make sure that your patched file has the same filename as the original.
 
 3 - Rezip the Ketsui rom archive.
   
