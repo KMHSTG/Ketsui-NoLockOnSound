@@ -1,7 +1,6 @@
 # **Ketsui - No Lock-On Sound**
 
-Patch that removes the beeping lock-on sound effect entirely from the Ketsui arcade rom. 
-It does nothing else, and the patched rom retains full gameplay/demo compatibility with an unmodified one.
+This patch removes the beeping lock-on sound effect entirely from the Ketsui MAME rom. It has no other effect.
 
 ## Patching Instructions:
 
